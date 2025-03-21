@@ -6,5 +6,5 @@ import { componentTagger } from "lovable-tagger";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: 'https://github.com/Shashi8066/truffaire.git',  // <-- Replace with your GitHub repo name
+  base: 'https://truffaire.onrender.com',  // <-- Replace with your GitHub repo name
 });
